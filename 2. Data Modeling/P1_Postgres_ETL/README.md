@@ -123,3 +123,4 @@ python etl.py
 ```
 This script reads and processes files from song_data and log_data and loads them into your tables
 3. Run test.ipynb which displays the first few rows of each table to let you check your database
+
